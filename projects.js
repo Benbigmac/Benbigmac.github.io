@@ -1,6 +1,6 @@
 var projs = [{
     name_: "IT202 Final Project",
-    repoLink: "benbigmac.github.io/IT202-Final-Project/",
+    repoLink: "../IT202-Final-Project/",
     description: "My final project for IT202"
 }, {
     name_: "Linux Users Group Website",
@@ -8,7 +8,7 @@ var projs = [{
     description: "A new website for LUG"
 },{
     name_: "Why Are You Running",
-    repoLink: ".../whyAreYouRunning",
+    repoLink: "../whyAreYouRunning",
     description: "My experiments with speech stuff"
 }
 ];
