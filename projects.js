@@ -21,7 +21,7 @@ $(document).ready(function() {
         var description = i.description;
         var name = i.name_;
         //   console.log(i.name_);
-        $(".row").append("<div class='col s12 m6'>" + "<div class='card blue-grey darken-1'>" + "<div class='card-content white-text'>" + "<span class='card-title'>" + name + "</span>" + "<p>" + description + " </p></div><div class='card-action'>" + "<a href=" + repoLink + ">Project Link</a> </div></div></div>");
+        $("#project").append("<div class='col s12 m6'>" + "<div class='card blue-grey darken-1'>" + "<div class='card-content white-text'>" + "<span class='card-title'>" + name + "</span>" + "<p>" + description + " </p></div><div class='card-action'>" + "<a href=" + repoLink + ">Project Link</a> </div></div></div>");
         
     });
 });
