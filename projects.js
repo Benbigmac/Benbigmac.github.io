@@ -6,12 +6,12 @@ var projs = [{
     name_: "Linux Users Group Website",
     repoLink: "https://github.com/lugatuic/lug.cs.uic.edu-2018",
     description: "A new website for LUG"
-},
-            {
+},{
     name_: "Why Are You Running",
-    repoLink: "benbigmac.github.io/whyAreYouRunning",
+    repoLink: ".../whyAreYouRunning",
     description: "My experiments with speech stuff"
-}];
+}
+];
 $(document).ready(function() {
     //var count=1;
     console.log("ready!");
