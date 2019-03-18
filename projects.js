@@ -36,7 +36,7 @@ var projs = [{
     repoLink: "https://github.com/Benbigmac/HEART-RATE-AND-BREATHING-MONITER",
     webLink: "../HEART-RATE-AND-BREATHING-MONITER",
     description: "An arduino controlled device which transmits EKG data from heart and Respiration rate data"
-}
+},
 ];
 $(document).ready(function() {
     //var count=1;
