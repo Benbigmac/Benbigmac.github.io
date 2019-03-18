@@ -30,6 +30,12 @@ var projs = [{
     repoLink: "https://github.com/Walden1995/CS362-Hovercraft",
     webLink: "https://walden1995.github.io/CS362-Hovercraft",
     description: "An arduino controlled hovercraft which recieves input from a bluetooth controller"
+},{
+    
+    name_: "Heart rate and Respiration Rate Monitoring Device ",
+    repoLink: "https://github.com/Benbigmac/HEART-RATE-AND-BREATHING-MONITER",
+    webLink: "../HEART-RATE-AND-BREATHING-MONITER",
+    description: "An arduino controlled device which transmits EKG data from heart and Respiration rate data"
 }
 ];
 $(document).ready(function() {
